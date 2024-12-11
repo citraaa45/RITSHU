@@ -220,7 +220,7 @@ iframe {
 
 @media (max-width: 400px) {
     .allwrap {
-        height: 700px;
+        height: 710px;
         width: 400px;
         display: flex;
         justify-content: center;
@@ -228,7 +228,7 @@ iframe {
     .parent {
         background-color: rgb(255, 236, 153);
         width: 400px;
-        height: 700px;
+        height: 710px;
     }
     .navbar {
         position: fixed; 
@@ -320,7 +320,7 @@ iframe {
     }
     .content3 {
         font-size: 15px;
-        margin-top: -45px;;
+        margin-top: -40px;;
     }
     iframe{
         height:200px;
@@ -330,6 +330,7 @@ iframe {
         display: flex;
         align-items: end;
         text-align: end;
+        margin-top: 20px;
     }
     h2{
         margin-top: 40px;
